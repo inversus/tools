@@ -1,5 +1,5 @@
 #!/bin/bash
 
-source libs/alias.sh
+source ~/tools/libs/alias.sh
 
 export VRIO_TOOLS=1
