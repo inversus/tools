@@ -1,0 +1,24 @@
+{
+  "ublaze0": {
+    "name": "ublaze0",
+    "hci_transport": "UART",
+    "arch": "ublaze",
+    "port": "/dev/ttyUSB0",
+    "baudrate": 115200
+  },
+  "ublaze1": {
+    "name": "ublaze0",
+    "hci_transport": "UART",
+    "arch": "ublaze",
+    "port": "/dev/ttyUSB1",
+    "baudrate": 115200
+  },
+  "dongle40": {
+    "name": "dng",
+    "hci_transport": "USB",
+    "arch": null,
+    "vendor_id": 2652,
+    "product_id": 8680
+  }
+}
+
