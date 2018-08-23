@@ -4,14 +4,16 @@
     "hci_transport": "UART",
     "arch": "ublaze",
     "port": "/dev/ttyUSB0",
-    "baudrate": 115200
+    "baudrate": 115200,
+    "address": "11:22:33:44:55:66"
   },
   "ublaze1": {
-    "name": "ublaze0",
+    "name": "ublaze1",
     "hci_transport": "UART",
     "arch": "ublaze",
     "port": "/dev/ttyUSB1",
-    "baudrate": 115200
+    "baudrate": 115200,
+    "address": null
   },
   "dongle40": {
     "name": "dng",
